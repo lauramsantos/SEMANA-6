@@ -1,0 +1,93 @@
+body {
+
+	background-color: #e7d5da;
+	font-family: 'Playfair Display', serif;
+}
+h1 {
+	color: #9d8d92;
+	font-family: 'Playfair Display', serif;
+	top: 40%;
+  font-size:3.12em; 
+	line-height: 100%;
+	margin-top: 1%;
+}
+
+
+
+h2{
+	font-size:1.25em; 
+	top:50%;
+	font-color: #000000;
+	margin-top: -10%;
+	line-height: normal;
+	text-align: justify;
+	word-spacing: 3%;
+	margin-right: 10%;
+	margin-left:35%;
+
+}
+
+h3{
+	font-size:1.25em; 
+	font-family: 'Playfair Display', serif;
+
+}
+nav{
+	font-family:'Playfair Display', serif;
+	margin-top: 1%;
+	line-height: 300%;
+	font-color: #000000;
+	text-align: right;
+	word-spacing: 4%;
+	margin-right: 3%;
+
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+aside{
+	font-family:'Playfair Display', serif;
+	font-size:1.25em;
+	text-align: left;
+	margin-bottom:0.5%;
+	line-height: 100%;
+	margin-left: 1%;
+	margin-right: 20%;
+
+
+
+
+
+}
+.article{
+	font-family:'Open Sans Condensed', sans-serif;
+	font-size: 1.25em; 
+	text-align: justify;
+	margin-left: 30%;
+	margin-top:1%;
+	margin-bottom: 15%;
+	margin-right: 20%;
+	word-spacing: 10%;
+
+
+	
+}
+
+
+
+footer{
+
+	color: #9d8d92;
+	font-family: 'Playfair Display', serif;
+	font-size: 1em; 
+	text-align: left;
+	margin-bottom: 1%;
+	line-height: 1%;
+	margin-top: 1%;
+	
+
+}
+
